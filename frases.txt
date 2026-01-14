@@ -1,3 +1,4 @@
 Estou colocando uma frase.
 Outros textos.
 Colocando uma terceira frase.
+E a nossa quarta frase está aqui.
